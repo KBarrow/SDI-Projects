@@ -1,5 +1,5 @@
 alert("JavaScript works!");
-// Project 3 -Section 2
+// Project 4 -Section 2
 // Professor: Rick Osborne
 // Aurthor: Kathy Barrow
 // Created For: SDI Online
@@ -21,9 +21,7 @@ var "prepair a meal " + Roast + "Roast,greenbeans,corn"),
 
 
 
-console.log
-*/
-
+console.log*/
 
 
 
