@@ -21,7 +21,7 @@ var "prepair a meal " + Roast + "Roast,greenbeans,corn"),
 
 
 
-console.log*/
+console.log*;
 
 
 
